@@ -9,7 +9,7 @@ I'd like to do project that has relation to anime. :ghost:
 ![Html](https://img.shields.io/badge/html-%230175C2.svg?style=for-the-badge&logo=html&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/js-%230175C2.svg?style=for-the-badge&logo=html&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23FFFFFF.svg?style=for-the-badge&logo=java)
-![Css](https://img.shields.io/badge/css-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Css](https://img.shields.io/badge/css-%23FFFFFF.svg?style=for-the-badge&logo=css&logoColor=white)
 
 
 <details>
